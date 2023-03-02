@@ -1,1 +1,2 @@
-Print("whats up my friend")
+print("whats up my friend")
+print ("Hello")
